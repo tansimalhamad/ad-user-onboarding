@@ -1,3 +1,4 @@
-FirstName,LastName,Department,Location,Role
-Max,Mustermann,IT,Berlin,Standard
-Lisa,Becker,Sales,Hamburg,Standard
+FirstName,LastName,Department,Location,Role,SamAccountName
+Mia,Schulz,Sales,Berlin,Standard,
+Jonas,Klein,IT,Hamburg,Admin,
+Lea,Wagner,HR,Berlin,Standard,
